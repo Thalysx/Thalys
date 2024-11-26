@@ -1,4 +1,7 @@
 
+Nomes dos integrantes:
+Gabriel N. Fujii, Breno O. Severino, Felipe Garrido Serra Shinzato, Daniel Thalys Fagundes Oliveira
+
 
 # Sistema de Votação Eletrônica - Curso de Sistemas de Informação
 
@@ -83,4 +86,5 @@ cpf,nome
 
 # Thalys
 Projects about our College
+
 
